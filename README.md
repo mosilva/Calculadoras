@@ -1,3 +1,3 @@
-# Calculadoras!
+# Calculadoras
 
-[CalculadoraSimples](https://user-images.githubusercontent.com/48559533/183743468-5dd17fad-e69d-48c5-860c-29c41f5634e4.JPG)
+![CalculadoraSimples](https://user-images.githubusercontent.com/48559533/183743697-911bb213-1fa7-4bbe-98a4-9d86521a477d.JPG)
