@@ -16,7 +16,7 @@ namespace Calculadoras
 
             var (descricaoImc,resultadoImc) = CalculadoraImc(peso, altura);
 
-            lblResultado.Text = $"{descricaoImc}\nSeu IMC:{resultadoImc:F2}";
+            lblResultado.Text = $"Descrição do IMC: {descricaoImc}\nSeu IMC:{resultadoImc:F2}";
 
         }
 
@@ -45,5 +45,6 @@ namespace Calculadoras
 
             textBoxPeso.Focus();
         }
+
     }
 }

@@ -63,6 +63,16 @@ namespace Calculadoras.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap banner_calculadora_solar {
+            get {
+                object obj = ResourceManager.GetObject("banner-calculadora-solar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap calc {
             get {
                 object obj = ResourceManager.GetObject("calc", resourceCulture);
